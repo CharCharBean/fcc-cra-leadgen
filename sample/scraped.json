@@ -1,0 +1,92 @@
+{
+ "window": {
+  "from": "2026-09-19",
+  "to": "2026-09-26"
+ },
+ "rows": [
+  {
+   "company": "Fjord Sample Robotics Inc",
+   "city": "Boston",
+   "state": "MA",
+   "country": "United States",
+   "fcc_id": "2DEMO-F600",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DTS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-F600",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-F600"
+  },
+  {
+   "company": "Granite Test Audio LLC",
+   "city": "Nashville",
+   "state": "TN",
+   "country": "United States",
+   "fcc_id": "2DEMO-G700",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DSS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-G700",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-G700"
+  },
+  {
+   "company": "Fjord Sample Robotics Inc",
+   "city": "Boston",
+   "state": "MA",
+   "country": "United States",
+   "fcc_id": "2DEMO-F600",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DXX",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-F600",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-F600"
+  },
+  {
+   "company": "Example Widgets Corp",
+   "city": "Portland",
+   "state": "OR",
+   "country": "United States",
+   "fcc_id": "2DEMO-E501",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DTS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-E501",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-E501"
+  },
+  {
+   "company": "Acme Demo Devices Inc",
+   "city": "Austin",
+   "state": "TX",
+   "country": "United States",
+   "fcc_id": "2DEMO-A100",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DTS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-A100",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-A100"
+  },
+  {
+   "company": "Megacorp Example Electronics LLC",
+   "city": "Seattle",
+   "state": "WA",
+   "country": "United States",
+   "fcc_id": "2DEMO-M900",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DTS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-M900",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-M900"
+  },
+  {
+   "company": "Nordlicht Beispiel GmbH",
+   "city": "Berlin",
+   "state": "",
+   "country": "Germany",
+   "fcc_id": "2DEMO-N800",
+   "grant_date": "09/22/2026",
+   "purpose": "Original Equipment",
+   "equipment_class": "DTS",
+   "form731": "https://apps.fcc.gov/tcb/GetTcb731Report.do?applicationid=DEMO-2DEMO-N800",
+   "exhibits": "https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calledFromFrame=N&application_id=DEMO-2DEMO-N800"
+  }
+ ]
+}

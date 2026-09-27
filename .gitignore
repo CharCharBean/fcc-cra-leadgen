@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 # per-run outputs and scratch
 Weekly Leads/
-scraped.json
-forms.json
-run.log
+/scraped.json
+/forms.json
+/run.log
 ~$*.xlsx
 # internal leads list: never commit
 Nemko_CRA_DATA_Transfer.xlsx

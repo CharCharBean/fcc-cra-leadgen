@@ -1,0 +1,22 @@
+[
+ {
+  "fcc_id": "2DEMO-F600",
+  "product": "Wi-Fi robot vacuum",
+  "contact_first": "Alex",
+  "contact_last": "Placeholder",
+  "contact_title": "Product Manager",
+  "contact_phone": "555-0101",
+  "contact_email": "alex@example.com",
+  "contact_source": "applicant"
+ },
+ {
+  "fcc_id": "2DEMO-G700",
+  "product": "Bluetooth speaker",
+  "contact_first": "Sam",
+  "contact_last": "Sample",
+  "contact_title": "Compliance Engineer",
+  "contact_phone": "555-0102",
+  "contact_email": "sam@example.com",
+  "contact_source": "non_technical"
+ }
+]
